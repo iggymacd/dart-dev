@@ -1,9 +1,9 @@
 dart-dev
 ========
 
-various projects experimenting with Dart
+Various projects experimenting with Dart
 
-The three folders that I have started with here work hand with each other to accomplish one approach to developing a client and server side solution with Dart.
+The three folders that I have started with work hand with each other to accomplish one approach to developing a client and server side solution with Dart.
 
 handlers_lib
 scaffold_client
@@ -26,6 +26,7 @@ You will see that the client side dart code is running as expected.
 Please feel free to make recommendations and changes where you see a need.
 
 ToDo:
+=====
 Create base client side templates based on twitter bootstrap.
 Provide additional server side services like logging and session support.
 Many more additional services as time goes on. I am close to having an upload handler implemented and will add this as well. 
