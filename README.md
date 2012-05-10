@@ -27,8 +27,8 @@ Please feel free to make recommendations and changes where you see a need.
 
 ToDo:
 =====
-Create base client side templates based on twitter bootstrap.
-Provide additional server side services like logging and session support.
-Many more additional services as time goes on. I am close to having an upload handler implemented and will add this as well. 
-Later on I will upload my FormHandler to the handler library.
+* Create base client side templates based on twitter bootstrap.
+* Provide additional server side services like logging and session support.
+* Many more additional services as time goes on. I am close to having an upload handler implemented and will add this as well. 
+* Later on I will upload my FormHandler to the handler library.
 
